@@ -8,6 +8,7 @@ import java.util.List;
 public class MaximumPerimeterTriangle {
     public static void main(String[] args) {
         /**
+         * https://www.hackerrank.com/challenges/three-month-preparation-kit-maximum-perimeter-triangle/problem
          * 5
          * 1 1 1 3 3
          * expected: 1 3 3
