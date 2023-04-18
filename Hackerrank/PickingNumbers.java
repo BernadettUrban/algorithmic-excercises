@@ -6,7 +6,6 @@ public class PickingNumbers {
 
         List<Integer> a = new ArrayList(Arrays.asList(1, 2, 2, 3, 1, 2));
         System.out.println(pickingNumbers(a));
-        Collections.sort(a);
         
     }
 
