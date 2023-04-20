@@ -1,6 +1,9 @@
 import java.util.*;
 
 public class SeparateTheNumbers {
+    /**
+    https://www.hackerrank.com/challenges/three-month-preparation-kit-separate-the-numbers/problem
+    **/
     public static void main(String[] args) {
 
         String s1 = "605704597605704598605704599";
